@@ -1,4 +1,6 @@
 
+% This is a simple demo
+
 function calculator( )
 clear;
 clc;
